@@ -1,5 +1,4 @@
 import React from 'react'
-import styles from './About.module.css'
 import AboutChef1 from './../../Assets/secondmeal.jpg'
 import AboutChef2 from '../../Assets/firstmeal.jpg'
 import ImageGallery from '../ImageGallery/ImageGallery.jsx'

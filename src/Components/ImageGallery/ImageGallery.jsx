@@ -1,5 +1,4 @@
 import React from 'react'
-import styles from './ImageGallery.module.css'
 import Gallery1 from '../../Assets/gallery1.jpg'
 import Gallery2 from '../../Assets/gallery2.jpg'
 import Gallery3 from '../../Assets/gallery3.jpg'

@@ -1,5 +1,4 @@
 import React from 'react'
-import styles from './Contact.module.css'
 import ContactInfo from '../ContactInfo/ContactInfo.jsx'
 import Reviews from '../Reviews/Reviews.jsx'
 import {motion} from 'framer-motion'

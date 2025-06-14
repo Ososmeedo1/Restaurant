@@ -1,5 +1,4 @@
 import React from 'react'
-import styles from './Menu.module.css'
 import BreakfastImg from '../../Assets/breakfast.jpg'
 import Lunching from '../../Assets/lunch.jpg'
 import DinnerImg from '../../Assets/dinner.jpg'

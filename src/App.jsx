@@ -5,7 +5,6 @@ import Layout from './Components/Layout/Layout.jsx'
 import Menu from './Components/Menu/Menu.jsx'
 import Contact from './Components/Contact/Contact.jsx'
 import About from './Components/About/About.jsx'
-import { AnimatePresence } from 'framer-motion'
 
 export default function App() {
 

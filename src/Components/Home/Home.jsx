@@ -1,5 +1,4 @@
 import React from 'react'
-import styles from './Home.module.css'
 import MenuBtn from '../MenuBtn/MenuBtn.jsx'
 import AboutImg from './../../Assets/edited.jpg'
 import { Link } from 'react-router-dom'
